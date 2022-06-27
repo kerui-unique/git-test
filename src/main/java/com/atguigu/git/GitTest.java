@@ -15,6 +15,6 @@ public class GitTest {
         System.out.println("hello git5! hot-fix-text");
         System.out.println("hello git5!push -text");
         
-        System.out.println("hello git5!github- -text");
+        System.out.println("hello git5!gitee- -text");
     }
 }
